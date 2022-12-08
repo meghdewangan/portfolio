@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.5695f896.js",
+    "main.js": "/static/js/main.0a50fe27.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/mobiworld.png": "/static/media/mobiworld.18b14b5736ede497a0a1.png",
@@ -11,19 +11,19 @@
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/logo.png": "/static/media/logo.23c10d6d294e7f3fb199.png",
     "static/media/weather.png": "/static/media/weather.80c270819b6eaada9fef.png",
-    "static/media/MEGHRAJ_RESUME.pdf": "/static/media/MEGHRAJ_RESUME.8cdfad6546542cde3c23.pdf",
+    "static/media/MEGHRAJ_RESUME.pdf": "/static/media/MEGHRAJ_RESUME.71bfddf885b084f9e64a.pdf",
     "static/media/word.png": "/static/media/word.873a6d62420d8a9ae3c3.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/url.png": "/static/media/url.4e8bb5cacedf4cf35884.png",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.5695f896.js.map": "/static/js/main.5695f896.js.map",
+    "main.0a50fe27.js.map": "/static/js/main.0a50fe27.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29bc8131.css",
-    "static/js/main.5695f896.js"
+    "static/js/main.0a50fe27.js"
   ]
 }
